@@ -19,7 +19,9 @@ import SwiftUI
 struct SwiftUI_Todo_List_1App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ListView()
+            }
         }
     }
 }
