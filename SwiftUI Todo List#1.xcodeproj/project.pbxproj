@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B46D0CC2A5AB68800FB65F8 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B46D0CB2A5AB68800FB65F8 /* NoItemsView.swift */; };
 		9BD698392A501D01003251A0 /* SwiftUI_Todo_List_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD698382A501D01003251A0 /* SwiftUI_Todo_List_1App.swift */; };
 		9BD6983D2A501D02003251A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6983C2A501D02003251A0 /* Assets.xcassets */; };
 		9BD698402A501D02003251A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD6983F2A501D02003251A0 /* Preview Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9B46D0CB2A5AB68800FB65F8 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
 		9BD698352A501D01003251A0 /* SwiftUI Todo List#1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Todo List#1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD698382A501D01003251A0 /* SwiftUI_Todo_List_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Todo_List_1App.swift; sourceTree = "<group>"; };
 		9BD6983C2A501D02003251A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				9BD698472A501DD5003251A0 /* ListView.swift */,
 				9BD698492A5020C1003251A0 /* ListRowView.swift */,
 				9BD6984B2A502429003251A0 /* AddView.swift */,
+				9B46D0CB2A5AB68800FB65F8 /* NoItemsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 				9BD698542A56C727003251A0 /* ListViewModel.swift in Sources */,
 				9BD698392A501D01003251A0 /* SwiftUI_Todo_List_1App.swift in Sources */,
 				9BD698482A501DD5003251A0 /* ListView.swift in Sources */,
+				9B46D0CC2A5AB68800FB65F8 /* NoItemsView.swift in Sources */,
 				9BD6984A2A5020C1003251A0 /* ListRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
