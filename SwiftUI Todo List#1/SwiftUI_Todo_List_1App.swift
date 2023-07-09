@@ -25,6 +25,7 @@ struct SwiftUI_Todo_List_1App: App {
             NavigationView {
                 ListView()
             }
+            .navigationViewStyle(StackNavigationViewStyle())
             .environmentObject(listViewModel)
         }
     }
